@@ -39,6 +39,7 @@ i{
     position: fixed;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
+    transition: 1s ease;
 
 }
 .main :hover >i{
@@ -54,6 +55,7 @@ button{
     border-radius: 2px;
     background-color: white;
     color: red;
+    transition: 1s ease;
 }
 button:hover{
     background-color: red;
